@@ -1,0 +1,11 @@
+[project]
+name = "agentic-doc-extraction"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agentic-doc>=0.3.1",
+    "ipykernel>=6.30.0",
+    "python-dotenv>=1.1.1",
+]

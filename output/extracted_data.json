@@ -1,0 +1,93 @@
+{
+  "patient_info": {
+    "name": "HONOUR, EDWARD",
+    "patient_id": "148",
+    "birth_date": "8/15/1966",
+    "age": "58 yrs.",
+    "gender": "M",
+    "address": "123 S MAIN STREET"
+  },
+  "contact_info": {
+    "cell": "(202) 555-1212",
+    "email": "ED@EXAMPLE.COM",
+    "provider": "JOHN SMITH"
+  },
+  "allergies": "No allergies on file",
+  "medications": [
+    {
+      "medication": "epinephrine 0.15 mg/0.3 mL injection auto-injector",
+      "dosage": "0 days",
+      "prescriber": "8/8/2023 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "lisinopril 20 mg oral tablet",
+      "dosage": "90 days",
+      "prescriber": "2/9/2024 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "finasteride 1 mg oral tablet",
+      "dosage": "60 days",
+      "prescriber": "3/22/2024 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "celecoxib 200 mg oral capsule",
+      "dosage": "10 days",
+      "prescriber": "4/25/2024 DOE,JOHN F,DO"
+    },
+    {
+      "medication": "cephalexin 500 mg oral capsule",
+      "dosage": "2 days",
+      "prescriber": "4/25/2024 DOE,JOHN F,DO"
+    },
+    {
+      "medication": "diazepam 5 mg oral tablet",
+      "dosage": "1 days",
+      "prescriber": "4/25/2024 DOE,JOHN F,DO"
+    },
+    {
+      "medication": "ezetimibe 10 mg oral tablet",
+      "dosage": "180 days",
+      "prescriber": "4/25/2024 DOE,JOHN F,DO"
+    },
+    {
+      "medication": "metformin 500 mg oral tablet",
+      "dosage": "90 days",
+      "prescriber": "4/25/2024 DOE,JOHN F,DO"
+    },
+    {
+      "medication": "ezetimibe 10 mg oral tablet",
+      "dosage": "90 days",
+      "prescriber": "6/15/2024 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "minoxidil 2.5 mg oral tablet",
+      "dosage": "90 days",
+      "prescriber": "6/21/2024 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "erythromycin 5 mg/gram (0.5 %) ophthalmic (eye) ointment",
+      "dosage": "7 days",
+      "prescriber": "3/3/2025 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "colchicine 0.6 mg oral tablet",
+      "dosage": "90 days",
+      "prescriber": "3/10/2025 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "rosuvastatin 40 mg oral tablet",
+      "dosage": "90 days",
+      "prescriber": "5/5/2025 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "Repatha SureClick 140 mg/mL subcutaneous pen injector",
+      "dosage": "90 days",
+      "prescriber": "5/7/2025 SMITH,JOHN,MD"
+    },
+    {
+      "medication": "testosterone cypionate 200 mg/mL intramuscular oil",
+      "dosage": "90 days",
+      "prescriber": "5/7/2025 SMITH,JOHN,MD"
+    }
+  ]
+}

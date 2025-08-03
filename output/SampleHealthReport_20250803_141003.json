@@ -1,0 +1,183 @@
+{
+    "markdown": "PATIENT CHART\nHONOUR, EDWARD\n123 S MAIN STREET CHICAGO IL  60611\nO: (312) 555-1212(preferred)\n\nDOB: 8/15/1966  AGE: 58 yrs.  Acct#: 148 <!-- text, from page 0 (l=0.024,t=0.027,r=0.440,b=0.128), with ID c62a4db5-4334-4e73-9d50-ac80cfd60582 -->\n\nDEMOGRAPHICS\n\nNAME: HONOUR, EDWARD\nPATIENT ID/#: 148\nMRN:\nBIRTH DATE: 8/15/1966\nAGE: 58 yrs.\nGENDER: M\nADDRESS: 123 S MAIN STREET\nCHICAGO IL  60611 <!-- text, from page 0 (l=0.024,t=0.153,r=0.297,b=0.286), with ID 639a1bb7-b8cd-4cee-9798-ef3df126f5b2 -->\n\nHome:\nWork:\nCell: (202) 555-1212\nEMAIL: ED@EXAMPLE.COM\nPROVIDER: SMITH, JOHN, MD\nREFERRING PROVIDER: JOHN SMITH\nSTE A\n3196 E ELM STREET\nCHICAGO IL  60611\n(773) 555-1212 <!-- text, from page 0 (l=0.027,t=0.283,r=0.345,b=0.409), with ID 56706d0d-bb10-4c29-84ac-d0f2d7d1c4d3 -->\n\nALLERGIES\n\nNo data on file <!-- text, from page 0 (l=0.026,t=0.426,r=0.160,b=0.476), with ID 0e3649e9-747f-450c-931a-3b9a5abaa451 -->\n\nMEDICATION DETAIL\n\nCurrent:\nSIG: epinephrine 0.15 mg/0.3 mL injection auto-injector, 0 days, Dispense #2 Each, 0 Refills, Directions: administer 0.15mg subcutaneously as needed\n8/8/2023 SMITH,JOHN,MD\n----------------------------------------\nCurrent:\nSIG: lisinopril 20 mg oral tablet, 90 days, Dispense #90 Tablet, 0 Refills, Directions: Pt to take 1 tablet po a day\n2/9/2024 SMITH,JOHN,MD\n----------------------------------------\nCurrent:\nSIG: finasteride 1 mg oral tablet, 60 days, Dispense #60 Tablet, 0 Refills, Directions: Take 1 oral tablet once a day\n3/22/2024 SMITH,JOHN,MD\n----------------------------------------\nCurrent:\nSIG: celecoxib 200 mg oral capsule, 10 days, Dispense #20 Capsule, 0 Refills, Directions: 1 capsule twice a day\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------\nCurrent:\nSIG: cephalexin 500 mg oral capsule, 2 days, Dispense #6 Capsule, 0 Refills, Directions: Take 1 capsule as directed prior to procedure\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------\nCurrent:\nSIG: diazepam 5 mg oral tablet, 1 days, Dispense #3 Tablet, 0 Refills, Directions: Take 1 tablet as directed the day of procedure\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------\nCurrent:\nSIG: ezetimibe 10 mg oral tablet, 180 days, Dispense #90 Tablet, 1 Refills, Directions: take 1 tablet daily\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------\nCurrent:\nSIG: metformin 500 mg oral tablet, 90 days, Dispense #360 Tablet, 1 Refills, Directions: Take 1 tablet 4 times a day\n4/25/2024 DOE,JOHN F,DO\n---------------------------------------- <!-- text, from page 0 (l=0.023,t=0.494,r=0.991,b=0.956), with ID ff808502-9ff1-4fac-9015-08c7a7497e9c -->\n\nCurrent: <!-- marginalia, from page 0 (l=0.028,t=0.949,r=0.104,b=0.968), with ID b299dac7-fe4d-4c01-852b-c20a48791ed5 -->\n\nPrint Date 5/13/2025 <!-- marginalia, from page 0 (l=0.800,t=0.962,r=0.938,b=0.980), with ID a6100f96-d59e-43a5-91df-64e59ba1f65b -->\n\nPATIENT CHART\nHONOUR, EDWARD\n123 S MAIN STREET CHICAGO IL  60611\nO: (312) 555-1212(preferred)\nDOB: 8/15/1966  AGE: 58 yrs.  Acct#: 148 <!-- text, from page 1 (l=0.030,t=0.029,r=0.442,b=0.112), with ID cb8d70ca-b3cf-4921-b46b-850f1809552f -->\n\nSIG: ezetimibe 10 mg oral tablet, 90 days, Dispense #90 Tablet, 1 Refills, Directions: Take 1 tablet daily\n6/15/2024 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: minoxidil 2.5 mg oral tablet, 90 days, Dispense #90 Tablet, 1 Refills, Directions: Take 1 oral tablet once a day\n6/21/2024 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: erythromycin 5 mg/gram (0.5 %) ophthalmic (eye) ointment, 7 days, Dispense #3.5 Gram, 0 Refills, Directions: apply 6 times per day to afested eye\n3/3/2025 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: colchicine 0.6 mg oral tablet, 90 days, Dispense #90 Tablet, 2 Refills, Directions: Take 1 oral tablet once a day\n3/10/2025 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: rosuvastatin 40 mg oral tablet, 90 days, Dispense #90 Tablet, 1 Refills, Directions: take one pill daily\n5/5/2025 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: Repatha SureClick 140 mg/mL subcutaneous pen injector, 90 days, Dispense #6 Milliliter, 1 Refills, Directions: Inject 1ml subcutaneously every 2 weeks\n5/7/2025 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: testosterone cypionate 200 mg/mL intramuscular oil, 90 days, Dispense #10 Milliliter, 0 Refills, Directions: Pt to administer 1.0 cc IM q 7 days\n5/7/2025 SMITH,JOHN,MD <!-- text, from page 1 (l=0.025,t=0.136,r=0.982,b=0.511), with ID cb4fa8fa-b97e-4ed3-bcf2-33f45b417ae9 -->\n\nPrint Date 5/13/2025 <!-- marginalia, from page 1 (l=0.799,t=0.961,r=0.937,b=0.980), with ID 94a98e7f-9ce7-44c9-b676-5fc356308e21 -->",
+    "chunks": [
+        {
+            "text": "PATIENT CHART\nHONOUR, EDWARD\n123 S MAIN STREET CHICAGO IL  60611\nO: (312) 555-1212(preferred)\n\nDOB: 8/15/1966  AGE: 58 yrs.  Acct#: 148",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.02447657287120819,
+                        "t": 0.02705305814743042,
+                        "r": 0.440010666847229,
+                        "b": 0.12754695117473602
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "c62a4db5-4334-4e73-9d50-ac80cfd60582"
+        },
+        {
+            "text": "DEMOGRAPHICS\n\nNAME: HONOUR, EDWARD\nPATIENT ID/#: 148\nMRN:\nBIRTH DATE: 8/15/1966\nAGE: 58 yrs.\nGENDER: M\nADDRESS: 123 S MAIN STREET\nCHICAGO IL  60611",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.02421244978904724,
+                        "t": 0.15327072143554688,
+                        "r": 0.29744404554367065,
+                        "b": 0.2858492434024811
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "639a1bb7-b8cd-4cee-9798-ef3df126f5b2"
+        },
+        {
+            "text": "Home:\nWork:\nCell: (202) 555-1212\nEMAIL: ED@EXAMPLE.COM\nPROVIDER: SMITH, JOHN, MD\nREFERRING PROVIDER: JOHN SMITH\nSTE A\n3196 E ELM STREET\nCHICAGO IL  60611\n(773) 555-1212",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.027014538645744324,
+                        "t": 0.2831401526927948,
+                        "r": 0.3450184464454651,
+                        "b": 0.40920111536979675
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "56706d0d-bb10-4c29-84ac-d0f2d7d1c4d3"
+        },
+        {
+            "text": "ALLERGIES\n\nNo data on file",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.025893650949001312,
+                        "t": 0.4264284670352936,
+                        "r": 0.16002026200294495,
+                        "b": 0.47608575224876404
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "0e3649e9-747f-450c-931a-3b9a5abaa451"
+        },
+        {
+            "text": "MEDICATION DETAIL\n\nCurrent:\nSIG: epinephrine 0.15 mg/0.3 mL injection auto-injector, 0 days, Dispense #2 Each, 0 Refills, Directions: administer 0.15mg subcutaneously as needed\n8/8/2023 SMITH,JOHN,MD\n----------------------------------------\nCurrent:\nSIG: lisinopril 20 mg oral tablet, 90 days, Dispense #90 Tablet, 0 Refills, Directions: Pt to take 1 tablet po a day\n2/9/2024 SMITH,JOHN,MD\n----------------------------------------\nCurrent:\nSIG: finasteride 1 mg oral tablet, 60 days, Dispense #60 Tablet, 0 Refills, Directions: Take 1 oral tablet once a day\n3/22/2024 SMITH,JOHN,MD\n----------------------------------------\nCurrent:\nSIG: celecoxib 200 mg oral capsule, 10 days, Dispense #20 Capsule, 0 Refills, Directions: 1 capsule twice a day\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------\nCurrent:\nSIG: cephalexin 500 mg oral capsule, 2 days, Dispense #6 Capsule, 0 Refills, Directions: Take 1 capsule as directed prior to procedure\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------\nCurrent:\nSIG: diazepam 5 mg oral tablet, 1 days, Dispense #3 Tablet, 0 Refills, Directions: Take 1 tablet as directed the day of procedure\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------\nCurrent:\nSIG: ezetimibe 10 mg oral tablet, 180 days, Dispense #90 Tablet, 1 Refills, Directions: take 1 tablet daily\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------\nCurrent:\nSIG: metformin 500 mg oral tablet, 90 days, Dispense #360 Tablet, 1 Refills, Directions: Take 1 tablet 4 times a day\n4/25/2024 DOE,JOHN F,DO\n----------------------------------------",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.022920697927474976,
+                        "t": 0.49390551447868347,
+                        "r": 0.9912426471710205,
+                        "b": 0.955773115158081
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "ff808502-9ff1-4fac-9015-08c7a7497e9c"
+        },
+        {
+            "text": "Current:",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.028065301477909088,
+                        "t": 0.9492815732955933,
+                        "r": 0.10418587177991867,
+                        "b": 0.9681618213653564
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "marginalia",
+            "chunk_id": "b299dac7-fe4d-4c01-852b-c20a48791ed5"
+        },
+        {
+            "text": "Print Date 5/13/2025",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.7999210357666016,
+                        "t": 0.9623263478279114,
+                        "r": 0.9378747940063477,
+                        "b": 0.9800774455070496
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "marginalia",
+            "chunk_id": "a6100f96-d59e-43a5-91df-64e59ba1f65b"
+        },
+        {
+            "text": "PATIENT CHART\nHONOUR, EDWARD\n123 S MAIN STREET CHICAGO IL  60611\nO: (312) 555-1212(preferred)\nDOB: 8/15/1966  AGE: 58 yrs.  Acct#: 148",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.03032037615776062,
+                        "t": 0.028863541781902313,
+                        "r": 0.4420548677444458,
+                        "b": 0.112040214240551
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "cb8d70ca-b3cf-4921-b46b-850f1809552f"
+        },
+        {
+            "text": "SIG: ezetimibe 10 mg oral tablet, 90 days, Dispense #90 Tablet, 1 Refills, Directions: Take 1 tablet daily\n6/15/2024 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: minoxidil 2.5 mg oral tablet, 90 days, Dispense #90 Tablet, 1 Refills, Directions: Take 1 oral tablet once a day\n6/21/2024 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: erythromycin 5 mg/gram (0.5 %) ophthalmic (eye) ointment, 7 days, Dispense #3.5 Gram, 0 Refills, Directions: apply 6 times per day to afested eye\n3/3/2025 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: colchicine 0.6 mg oral tablet, 90 days, Dispense #90 Tablet, 2 Refills, Directions: Take 1 oral tablet once a day\n3/10/2025 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: rosuvastatin 40 mg oral tablet, 90 days, Dispense #90 Tablet, 1 Refills, Directions: take one pill daily\n5/5/2025 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: Repatha SureClick 140 mg/mL subcutaneous pen injector, 90 days, Dispense #6 Milliliter, 1 Refills, Directions: Inject 1ml subcutaneously every 2 weeks\n5/7/2025 SMITH,JOHN,MD\n-----------------------------------------\nCurrent:\nSIG: testosterone cypionate 200 mg/mL intramuscular oil, 90 days, Dispense #10 Milliliter, 0 Refills, Directions: Pt to administer 1.0 cc IM q 7 days\n5/7/2025 SMITH,JOHN,MD",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.024651825428009033,
+                        "t": 0.13648951053619385,
+                        "r": 0.9820210337638855,
+                        "b": 0.5112236142158508
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "cb4fa8fa-b97e-4ed3-bcf2-33f45b417ae9"
+        },
+        {
+            "text": "Print Date 5/13/2025",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.7990525960922241,
+                        "t": 0.9608380794525146,
+                        "r": 0.9374246597290039,
+                        "b": 0.9802327156066895
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "marginalia",
+            "chunk_id": "94a98e7f-9ce7-44c9-b676-5fc356308e21"
+        }
+    ],
+    "extraction": null,
+    "extraction_metadata": null,
+    "start_page_idx": 0,
+    "end_page_idx": 1,
+    "doc_type": "pdf",
+    "result_path": null,
+    "errors": [],
+    "extraction_error": null
+}
