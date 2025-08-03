@@ -1,0 +1,452 @@
+{
+    "markdown": "logo: stylized lowercase letters \"cpb\" in bold, italicized, dark red font with rounded corners and no additional text or graphic elements.\n\nDimensions & Placement :\n  • The logo consists solely of the three letters \"cpb\" in a custom sans-serif typeface.\n  • All letters are the same height and aligned on the baseline.\n  • The color is a uniform dark red (#9B1621 approx.).\n  • No border, background shape, or tagline is present.\n\nAnalysis :\n  • The logo uses a modern, minimalist design with italicized, rounded letters to convey a sense of motion and approachability. The absence of additional elements suggests a focus on brand name recognition. <!-- figure, from page 0 (l=0.605,t=0.029,r=0.777,b=0.091), with ID f2e5a06c-16d6-48d2-8ad1-a3e859b08009 -->\n\nCPB SOFTWARE (GERMANY) GMBH <!-- text, from page 0 (l=0.607,t=0.098,r=0.911,b=0.115), with ID 0c8a6e6d-709b-4053-9044-7eb604b6fcc1 -->\n\nIm Bruch 3, 63897 Miltenberg  \nTelefon: +49 9371 9786 0  \ngermany@cpb-software.com  \nwww.cpb-software.com <!-- text, from page 0 (l=0.607,t=0.120,r=0.784,b=0.164), with ID f7cc7a3e-4221-47a5-beb9-148c11bbb14b -->\n\nCPB Software (Germany) GmbH - Im Bruch 3 - 63897 Miltenberg/Main <!-- text, from page 0 (l=0.094,t=0.188,r=0.466,b=0.203), with ID 9dfa50d1-b154-4c66-b680-8525c7dd9da5 -->\n\nMusterkunde AG\nMr. John Doe\nMusterstr. 23\n12345 Musterstadt <!-- text, from page 0 (l=0.095,t=0.215,r=0.245,b=0.276), with ID 84dedfe8-8ac2-47e3-8b0e-8f0919cd5c98 -->\n\nName: Stefanie Müller\nPhone: +49 9371 9786-0 <!-- text, from page 0 (l=0.608,t=0.260,r=0.767,b=0.292), with ID e13069e4-f75a-423a-a106-5f28f89c4739 -->\n\nInvoice WMACCESS Internet <!-- text, from page 0 (l=0.095,t=0.348,r=0.332,b=0.365), with ID ca438cfa-15a0-4217-96a8-f148b393de93 -->\n\nVAT No. DE199378386\n<table><thead><tr><th>Invoice No</th><th>Customer No</th><th>Invoice Period</th><th>Date</th></tr></thead><tbody><tr><td>123100401</td><td>12345</td><td>01.02.2024 - 29.02.2024</td><td>1. März 2024</td></tr></tbody></table> <!-- table, from page 0 (l=0.092,t=0.378,r=0.949,b=0.427), with ID 2c4ef8d8-61dc-47ac-87e3-1deeb3e79d9d -->\n\n<table><thead><tr><th>Service Description</th><th>Amount -without VAT-</th><th>quantity</th><th>Total Amount</th></tr></thead><tbody><tr><td>Basic Fee wmView</td><td>130,00 €</td><td>1</td><td>130,00 €</td></tr><tr><td>Basis fee for additional user accounts</td><td>10,00 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Basic Fee wmPos</td><td>50,00 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Basic Fee wmGuide</td><td>1.000,00 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Change of user accounts</td><td>10,00 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee T1</td><td>0,58 €</td><td>14</td><td>8,12 €</td></tr><tr><td>Transaction Fee T2</td><td>0,70 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee T3</td><td>1,50 €</td><td>162</td><td>243,00 €</td></tr><tr><td>Transaction Fee T4</td><td>0,50 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee T5</td><td>0,80 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee T6</td><td>1,80 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G1</td><td>0,30 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G2</td><td>0,30 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G3</td><td>0,40 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G4</td><td>0,40 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G5</td><td>0,30 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G6</td><td>0,30 €</td><td>0</td><td>0,00 €</td></tr></tbody><tfoot><tr><td colspan=\"2\">Total</td><td></td><td>381,12 €</td></tr><tr><td colspan=\"2\">VAT 19 %</td><td></td><td>72,41 €</td></tr><tr><td colspan=\"2\">Gross Amount incl. VAT</td><td></td><td>453,53 €</td></tr></tfoot></table> <!-- table, from page 0 (l=0.092,t=0.437,r=0.949,b=0.764), with ID 9d438b69-a84b-4cc8-aa25-78e20deb9c3c -->\n\nTerms of Payment: Immediate payment without discount. Any bank charges must be paid by the invoice recipient.\nBank fees at our expense will be charged to the invoice recipient! <!-- text, from page 0 (l=0.095,t=0.788,r=0.782,b=0.818), with ID 5a6c0f68-1146-46ec-ad43-dbb57a54801b -->\n\nPlease credit the amount invoiced to IBAN DE29 1234 5678 9012 3456 78 | BIC GENODE51MIC (SEPA Credit Transfer) <!-- text, from page 0 (l=0.096,t=0.832,r=0.825,b=0.848), with ID e20dc1bc-d44c-4a20-8d63-b894880bf645 -->\n\nThis invoice is generated automatically and will not be signed <!-- marginalia, from page 0 (l=0.096,t=0.875,r=0.470,b=0.892), with ID 1ad3870e-55fe-46d5-9ad0-2890e4ee057a -->\n\nlogo: cpb software\n\nSummary : This image is a logo for \"cpb software\", featuring the company name in stylized text.\n\nLogo Elements :\n  • The text \"cpb\" is written in bold, italicized, lowercase letters in a dark red color.\n  • The word \"software\" appears below and to the right of \"cpb\", in a smaller, italicized, lowercase font in dark gray.\n  • The logo uses a clean, sans-serif typeface for both words.\n  • There are no additional graphic elements, icons, or taglines present.\n\nDimensions & Placement :\n  • \"cpb\" is the dominant element, occupying the upper left.\n  • \"software\" is aligned below and slightly to the right, creating a staggered, dynamic layout.\n\nAnalysis :\n  • The use of red for \"cpb\" draws attention to the brand initials, while the gray \"software\" provides a professional, understated complement.\n  • The italicized, lowercase style conveys a modern and approachable brand identity. <!-- figure, from page 1 (l=0.721,t=0.001,r=0.950,b=0.067), with ID 4aedf5b9-d088-4292-bda4-d8457301c4c9 -->\n\n**Invoice Details** <!-- text, from page 1 (l=0.401,t=0.083,r=0.616,b=0.107), with ID ea524f30-4e3b-41c8-80b1-93c9c4163598 -->\n\nPeriod:      01.02.2024      to      29.02.2024 <!-- text, from page 1 (l=0.284,t=0.113,r=0.731,b=0.135), with ID 17f96c0c-be64-4032-b592-f1c6b5090ac7 -->\n\nUnit: Musterkunde AG    12345 <!-- text, from page 1 (l=0.067,t=0.144,r=0.948,b=0.180), with ID e4700d41-a97e-4f12-a435-6bfd7baad96c -->\n\n<table><thead><tr><th>Request sections:</th><th>T1:</th><th>T2:</th><th>T3:</th><th>T4:</th><th>T5:</th><th>T6:</th><th>G1:</th><th>G2:</th><th>G3:</th><th>G4:</th><th>G5:</th><th>G6:</th></tr></thead><tbody><tr><td>Amount in Euro:</td><td>0,58</td><td>0,70</td><td>1,50</td><td>0,50</td><td>0,80</td><td>1,80</td><td>0,30</td><td>0,30</td><td>0,40</td><td>0,40</td><td>0,30</td><td>0,30</td></tr></tbody></table>\n\n<table><thead><tr><th>user-account-1</th><td>10</td><td>0</td><td>99</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>154,30 €</td></tr></thead><tbody><tr><th>user-account-2</th><td>4</td><td>0</td><td>63</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>96,82 €</td></tr></tbody></table>\n\n<table><thead><tr><th>Transaction Fee Seg</th><th>T1:</th><th>T2:</th><th>T3:</th><th>T4:</th><th>T5:</th><th>T6:</th><th>G1:</th><th>G2:</th><th>G3:</th><th>G4:</th><th>G5:</th><th>G6:</th></tr></thead><tbody><tr><td>Queries in Total:</td><td>14</td><td>0</td><td>162</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Total in Euro:</td><td>8,12 €</td><td>0,00 €</td><td>243,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>251,12 €</td></tr></tbody></table> <!-- table, from page 1 (l=0.067,t=0.201,r=0.949,b=0.355), with ID c3979155-c20b-4e76-8c68-22107b56a4c1 -->\n\nThe explanation of the query fee categories (T1 to T6 and G1 to G6) can be found on our website:\nhttps://www.wmaccess.com/abfragekategorien <!-- text, from page 1 (l=0.071,t=0.362,r=0.667,b=0.389), with ID c9c25d8e-b89b-410b-8d70-cfa96bfc9669 -->\n\nlogo: cpb software\n\nVisible Text :\n  • \"cpb\" in large, bold, dark red lowercase letters.\n  • \"software\" in smaller, italicized, dark gray lowercase letters beneath and to the right of \"cpb\".\n\nDesign & Layout :\n  • \"cpb\" is the dominant element, left-aligned, with a modern sans-serif font and slightly rounded corners.\n  • \"software\" is positioned below \"cpb\", right-aligned, and uses a lighter, italicized font for contrast.\n  • The logo uses only two colors: dark red for \"cpb\" and dark gray for \"software\".\n  • No additional symbols, icons, taglines, or graphical elements are present.\n  • Background is plain white.\n\nDimensions & Placement :\n  • \"cpb\" occupies the upper left; \"software\" is directly below and offset to the right.\n  • The overall aspect ratio is wider than tall, with text elements closely grouped.\n\nAnalysis :\n  • The logo emphasizes the \"cpb\" brand name with bold color and size, while \"software\" clarifies the industry focus in a subtler style. The clean, modern design suggests a technology-oriented company identity. <!-- figure, from page 2 (l=0.720,t=0.001,r=0.950,b=0.067), with ID 0ee850f0-705e-4fa8-b4dc-bdcda61bc5bc -->\n\n# Invoice Details for wmView Query Reference <!-- text, from page 2 (l=0.199,t=0.082,r=0.819,b=0.109), with ID f40b8c55-1a05-4319-ad65-b027b014aaac -->\n\nPeriod:        01.02.2024      to        29.02.2024 <!-- text, from page 2 (l=0.283,t=0.114,r=0.733,b=0.136), with ID 66c11018-ad74-4eba-802e-90f3c9ed333e -->\n\nUnit: Musterkunde AG    12345 <!-- text, from page 2 (l=0.070,t=0.144,r=0.919,b=0.178), with ID 7cf47f2c-9192-4d2b-996b-0bdb7879e936 -->\n\nQuery Reference:\n<table><tr><td>*Not specified*</td></tr><tr><td>AZR/31/27439</td></tr><tr><td>CCL/3715</td></tr><tr><td>CRS/28432</td></tr><tr><td>Cs/52113</td></tr><tr><td>GS 32090</td></tr><tr><td>Kpi/22695</td></tr><tr><td>PG 7772</td></tr><tr><td>Rjn/11138</td></tr><tr><td>SF-M 596/99-08</td></tr><tr><td>Ttrb/17885</td></tr><tr><td>WPN:24791</td></tr><tr><td>Wwt/15658</td></tr></table> <!-- table, from page 2 (l=0.064,t=0.210,r=0.326,b=0.444), with ID 5183cbe6-ef90-456f-a869-0cd2c67e4403 -->\n\n<table><thead><tr><th colspan=\"7\">wmview, wmProfile and User Profiles Query Segments:</th></tr><tr><th>T1:</th><th>T2:</th><th>T3:</th><th>T4:</th><th>T5:</th><th>T6:</th><th></th></tr></thead><tbody><tr><td>4</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>15,82 €</td></tr><tr><td>0</td><td>0</td><td>12</td><td>0</td><td>0</td><td>0</td><td>18,00 €</td></tr><tr><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,00 €</td></tr><tr><td>5</td><td>0</td><td>36</td><td>0</td><td>0</td><td>0</td><td>56,90 €</td></tr><tr><td>0</td><td>0</td><td>19</td><td>0</td><td>0</td><td>0</td><td>28,50 €</td></tr><tr><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>11,08 €</td></tr><tr><td>2</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>10,16 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50 €</td></tr><tr><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>22,50 €</td></tr><tr><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>7,50 €</td></tr><tr><td>1</td><td>0</td><td>23</td><td>0</td><td>0</td><td>0</td><td>35,08 €</td></tr><tr><td>1</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,58 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50 €</td></tr></tbody></table> <!-- table, from page 2 (l=0.473,t=0.201,r=0.948,b=0.443), with ID 623775b3-d647-43b3-a26f-87e0e21ba46c -->\n\n<table>\n  <tr>\n    <th colspan=\"6\">Price for each Query in Euro:</th>\n  </tr>\n  <tr>\n    <td>0,58</td>\n    <td>0,70</td>\n    <td>1,50</td>\n    <td>0,50</td>\n    <td>0,80</td>\n    <td>1,80</td>\n  </tr>\n</table> <!-- table, from page 2 (l=0.474,t=0.467,r=0.810,b=0.498), with ID 5e709504-445b-4a28-a0e9-0ff856c2352b -->",
+    "chunks": [
+        {
+            "text": "logo: stylized lowercase letters \"cpb\" in bold, italicized, dark red font with rounded corners and no additional text or graphic elements.\n\nDimensions & Placement :\n  • The logo consists solely of the three letters \"cpb\" in a custom sans-serif typeface.\n  • All letters are the same height and aligned on the baseline.\n  • The color is a uniform dark red (#9B1621 approx.).\n  • No border, background shape, or tagline is present.\n\nAnalysis :\n  • The logo uses a modern, minimalist design with italicized, rounded letters to convey a sense of motion and approachability. The absence of additional elements suggests a focus on brand name recognition.",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.6053867340087891,
+                        "t": 0.028950709849596024,
+                        "r": 0.7771395444869995,
+                        "b": 0.09146879613399506
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "figure",
+            "chunk_id": "f2e5a06c-16d6-48d2-8ad1-a3e859b08009"
+        },
+        {
+            "text": "CPB SOFTWARE (GERMANY) GMBH",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.6072472929954529,
+                        "t": 0.09764940291643143,
+                        "r": 0.9108485579490662,
+                        "b": 0.11531244963407516
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "0c8a6e6d-709b-4053-9044-7eb604b6fcc1"
+        },
+        {
+            "text": "Im Bruch 3, 63897 Miltenberg  \nTelefon: +49 9371 9786 0  \ngermany@cpb-software.com  \nwww.cpb-software.com",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.6070231199264526,
+                        "t": 0.12034746259450912,
+                        "r": 0.784263014793396,
+                        "b": 0.16407792270183563
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "f7cc7a3e-4221-47a5-beb9-148c11bbb14b"
+        },
+        {
+            "text": "CPB Software (Germany) GmbH - Im Bruch 3 - 63897 Miltenberg/Main",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.09381753206253052,
+                        "t": 0.18821533024311066,
+                        "r": 0.466472864151001,
+                        "b": 0.2031121701002121
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "9dfa50d1-b154-4c66-b680-8525c7dd9da5"
+        },
+        {
+            "text": "Musterkunde AG\nMr. John Doe\nMusterstr. 23\n12345 Musterstadt",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.09459470212459564,
+                        "t": 0.2152240127325058,
+                        "r": 0.24466587603092194,
+                        "b": 0.2763945460319519
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "84dedfe8-8ac2-47e3-8b0e-8f0919cd5c98"
+        },
+        {
+            "text": "Name: Stefanie Müller\nPhone: +49 9371 9786-0",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.607530415058136,
+                        "t": 0.26042482256889343,
+                        "r": 0.7668645977973938,
+                        "b": 0.2920684516429901
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "e13069e4-f75a-423a-a106-5f28f89c4739"
+        },
+        {
+            "text": "Invoice WMACCESS Internet",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.09472688287496567,
+                        "t": 0.3478693664073944,
+                        "r": 0.33237677812576294,
+                        "b": 0.3650945723056793
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "ca438cfa-15a0-4217-96a8-f148b393de93"
+        },
+        {
+            "text": "VAT No. DE199378386\n<table><thead><tr><th>Invoice No</th><th>Customer No</th><th>Invoice Period</th><th>Date</th></tr></thead><tbody><tr><td>123100401</td><td>12345</td><td>01.02.2024 - 29.02.2024</td><td>1. März 2024</td></tr></tbody></table>",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.0922822654247284,
+                        "t": 0.37822315096855164,
+                        "r": 0.9487954378128052,
+                        "b": 0.4271657168865204
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "table",
+            "chunk_id": "2c4ef8d8-61dc-47ac-87e3-1deeb3e79d9d"
+        },
+        {
+            "text": "<table><thead><tr><th>Service Description</th><th>Amount -without VAT-</th><th>quantity</th><th>Total Amount</th></tr></thead><tbody><tr><td>Basic Fee wmView</td><td>130,00 €</td><td>1</td><td>130,00 €</td></tr><tr><td>Basis fee for additional user accounts</td><td>10,00 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Basic Fee wmPos</td><td>50,00 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Basic Fee wmGuide</td><td>1.000,00 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Change of user accounts</td><td>10,00 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee T1</td><td>0,58 €</td><td>14</td><td>8,12 €</td></tr><tr><td>Transaction Fee T2</td><td>0,70 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee T3</td><td>1,50 €</td><td>162</td><td>243,00 €</td></tr><tr><td>Transaction Fee T4</td><td>0,50 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee T5</td><td>0,80 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee T6</td><td>1,80 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G1</td><td>0,30 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G2</td><td>0,30 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G3</td><td>0,40 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G4</td><td>0,40 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G5</td><td>0,30 €</td><td>0</td><td>0,00 €</td></tr><tr><td>Transaction Fee G6</td><td>0,30 €</td><td>0</td><td>0,00 €</td></tr></tbody><tfoot><tr><td colspan=\"2\">Total</td><td></td><td>381,12 €</td></tr><tr><td colspan=\"2\">VAT 19 %</td><td></td><td>72,41 €</td></tr><tr><td colspan=\"2\">Gross Amount incl. VAT</td><td></td><td>453,53 €</td></tr></tfoot></table>",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.09213313460350037,
+                        "t": 0.43679022789001465,
+                        "r": 0.948549747467041,
+                        "b": 0.7641526460647583
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "table",
+            "chunk_id": "9d438b69-a84b-4cc8-aa25-78e20deb9c3c"
+        },
+        {
+            "text": "Terms of Payment: Immediate payment without discount. Any bank charges must be paid by the invoice recipient.\nBank fees at our expense will be charged to the invoice recipient!",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.09480667114257812,
+                        "t": 0.7875574231147766,
+                        "r": 0.781731128692627,
+                        "b": 0.8178245425224304
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "5a6c0f68-1146-46ec-ad43-dbb57a54801b"
+        },
+        {
+            "text": "Please credit the amount invoiced to IBAN DE29 1234 5678 9012 3456 78 | BIC GENODE51MIC (SEPA Credit Transfer)",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.09568038582801819,
+                        "t": 0.8315392732620239,
+                        "r": 0.8249353170394897,
+                        "b": 0.8481686115264893
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "e20dc1bc-d44c-4a20-8d63-b894880bf645"
+        },
+        {
+            "text": "This invoice is generated automatically and will not be signed",
+            "grounding": [
+                {
+                    "page": 0,
+                    "box": {
+                        "l": 0.0958230197429657,
+                        "t": 0.8750232458114624,
+                        "r": 0.46955105662345886,
+                        "b": 0.8920787572860718
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "marginalia",
+            "chunk_id": "1ad3870e-55fe-46d5-9ad0-2890e4ee057a"
+        },
+        {
+            "text": "logo: cpb software\n\nSummary : This image is a logo for \"cpb software\", featuring the company name in stylized text.\n\nLogo Elements :\n  • The text \"cpb\" is written in bold, italicized, lowercase letters in a dark red color.\n  • The word \"software\" appears below and to the right of \"cpb\", in a smaller, italicized, lowercase font in dark gray.\n  • The logo uses a clean, sans-serif typeface for both words.\n  • There are no additional graphic elements, icons, or taglines present.\n\nDimensions & Placement :\n  • \"cpb\" is the dominant element, occupying the upper left.\n  • \"software\" is aligned below and slightly to the right, creating a staggered, dynamic layout.\n\nAnalysis :\n  • The use of red for \"cpb\" draws attention to the brand initials, while the gray \"software\" provides a professional, understated complement.\n  • The italicized, lowercase style conveys a modern and approachable brand identity.",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.7207826375961304,
+                        "t": 0.0006285794079303741,
+                        "r": 0.9496501684188843,
+                        "b": 0.06675839424133301
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "figure",
+            "chunk_id": "4aedf5b9-d088-4292-bda4-d8457301c4c9"
+        },
+        {
+            "text": "**Invoice Details**",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.40133440494537354,
+                        "t": 0.08290088176727295,
+                        "r": 0.615649938583374,
+                        "b": 0.10737797617912292
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "ea524f30-4e3b-41c8-80b1-93c9c4163598"
+        },
+        {
+            "text": "Period:      01.02.2024      to      29.02.2024",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.2842990756034851,
+                        "t": 0.11306718736886978,
+                        "r": 0.730556309223175,
+                        "b": 0.13484077155590057
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "17f96c0c-be64-4032-b592-f1c6b5090ac7"
+        },
+        {
+            "text": "Unit: Musterkunde AG    12345",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.06735825538635254,
+                        "t": 0.14361754059791565,
+                        "r": 0.9481116533279419,
+                        "b": 0.180149644613266
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "e4700d41-a97e-4f12-a435-6bfd7baad96c"
+        },
+        {
+            "text": "<table><thead><tr><th>Request sections:</th><th>T1:</th><th>T2:</th><th>T3:</th><th>T4:</th><th>T5:</th><th>T6:</th><th>G1:</th><th>G2:</th><th>G3:</th><th>G4:</th><th>G5:</th><th>G6:</th></tr></thead><tbody><tr><td>Amount in Euro:</td><td>0,58</td><td>0,70</td><td>1,50</td><td>0,50</td><td>0,80</td><td>1,80</td><td>0,30</td><td>0,30</td><td>0,40</td><td>0,40</td><td>0,30</td><td>0,30</td></tr></tbody></table>\n\n<table><thead><tr><th>user-account-1</th><td>10</td><td>0</td><td>99</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>154,30 €</td></tr></thead><tbody><tr><th>user-account-2</th><td>4</td><td>0</td><td>63</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>96,82 €</td></tr></tbody></table>\n\n<table><thead><tr><th>Transaction Fee Seg</th><th>T1:</th><th>T2:</th><th>T3:</th><th>T4:</th><th>T5:</th><th>T6:</th><th>G1:</th><th>G2:</th><th>G3:</th><th>G4:</th><th>G5:</th><th>G6:</th></tr></thead><tbody><tr><td>Queries in Total:</td><td>14</td><td>0</td><td>162</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Total in Euro:</td><td>8,12 €</td><td>0,00 €</td><td>243,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>0,00 €</td><td>251,12 €</td></tr></tbody></table>",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.06719312071800232,
+                        "t": 0.20123527944087982,
+                        "r": 0.9488857984542847,
+                        "b": 0.3554697632789612
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "table",
+            "chunk_id": "c3979155-c20b-4e76-8c68-22107b56a4c1"
+        },
+        {
+            "text": "The explanation of the query fee categories (T1 to T6 and G1 to G6) can be found on our website:\nhttps://www.wmaccess.com/abfragekategorien",
+            "grounding": [
+                {
+                    "page": 1,
+                    "box": {
+                        "l": 0.07149821519851685,
+                        "t": 0.3616138696670532,
+                        "r": 0.6668105721473694,
+                        "b": 0.38906699419021606
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "c9c25d8e-b89b-410b-8d70-cfa96bfc9669"
+        },
+        {
+            "text": "logo: cpb software\n\nVisible Text :\n  • \"cpb\" in large, bold, dark red lowercase letters.\n  • \"software\" in smaller, italicized, dark gray lowercase letters beneath and to the right of \"cpb\".\n\nDesign & Layout :\n  • \"cpb\" is the dominant element, left-aligned, with a modern sans-serif font and slightly rounded corners.\n  • \"software\" is positioned below \"cpb\", right-aligned, and uses a lighter, italicized font for contrast.\n  • The logo uses only two colors: dark red for \"cpb\" and dark gray for \"software\".\n  • No additional symbols, icons, taglines, or graphical elements are present.\n  • Background is plain white.\n\nDimensions & Placement :\n  • \"cpb\" occupies the upper left; \"software\" is directly below and offset to the right.\n  • The overall aspect ratio is wider than tall, with text elements closely grouped.\n\nAnalysis :\n  • The logo emphasizes the \"cpb\" brand name with bold color and size, while \"software\" clarifies the industry focus in a subtler style. The clean, modern design suggests a technology-oriented company identity.",
+            "grounding": [
+                {
+                    "page": 2,
+                    "box": {
+                        "l": 0.7200112342834473,
+                        "t": 0.0006129704415798187,
+                        "r": 0.9500049352645874,
+                        "b": 0.06674851477146149
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "figure",
+            "chunk_id": "0ee850f0-705e-4fa8-b4dc-bdcda61bc5bc"
+        },
+        {
+            "text": "# Invoice Details for wmView Query Reference",
+            "grounding": [
+                {
+                    "page": 2,
+                    "box": {
+                        "l": 0.1993107795715332,
+                        "t": 0.08201852440834045,
+                        "r": 0.8187668323516846,
+                        "b": 0.10943807661533356
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "f40b8c55-1a05-4319-ad65-b027b014aaac"
+        },
+        {
+            "text": "Period:        01.02.2024      to        29.02.2024",
+            "grounding": [
+                {
+                    "page": 2,
+                    "box": {
+                        "l": 0.28323084115982056,
+                        "t": 0.11405085027217865,
+                        "r": 0.7330488562583923,
+                        "b": 0.135512113571167
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "66c11018-ad74-4eba-802e-90f3c9ed333e"
+        },
+        {
+            "text": "Unit: Musterkunde AG    12345",
+            "grounding": [
+                {
+                    "page": 2,
+                    "box": {
+                        "l": 0.07026892900466919,
+                        "t": 0.144077330827713,
+                        "r": 0.9191592931747437,
+                        "b": 0.1784600019454956
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "text",
+            "chunk_id": "7cf47f2c-9192-4d2b-996b-0bdb7879e936"
+        },
+        {
+            "text": "Query Reference:\n<table><tr><td>*Not specified*</td></tr><tr><td>AZR/31/27439</td></tr><tr><td>CCL/3715</td></tr><tr><td>CRS/28432</td></tr><tr><td>Cs/52113</td></tr><tr><td>GS 32090</td></tr><tr><td>Kpi/22695</td></tr><tr><td>PG 7772</td></tr><tr><td>Rjn/11138</td></tr><tr><td>SF-M 596/99-08</td></tr><tr><td>Ttrb/17885</td></tr><tr><td>WPN:24791</td></tr><tr><td>Wwt/15658</td></tr></table>",
+            "grounding": [
+                {
+                    "page": 2,
+                    "box": {
+                        "l": 0.06449553370475769,
+                        "t": 0.21002835035324097,
+                        "r": 0.32576555013656616,
+                        "b": 0.44372206926345825
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "table",
+            "chunk_id": "5183cbe6-ef90-456f-a869-0cd2c67e4403"
+        },
+        {
+            "text": "<table><thead><tr><th colspan=\"7\">wmview, wmProfile and User Profiles Query Segments:</th></tr><tr><th>T1:</th><th>T2:</th><th>T3:</th><th>T4:</th><th>T5:</th><th>T6:</th><th></th></tr></thead><tbody><tr><td>4</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>15,82 €</td></tr><tr><td>0</td><td>0</td><td>12</td><td>0</td><td>0</td><td>0</td><td>18,00 €</td></tr><tr><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,00 €</td></tr><tr><td>5</td><td>0</td><td>36</td><td>0</td><td>0</td><td>0</td><td>56,90 €</td></tr><tr><td>0</td><td>0</td><td>19</td><td>0</td><td>0</td><td>0</td><td>28,50 €</td></tr><tr><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>11,08 €</td></tr><tr><td>2</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>10,16 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50 €</td></tr><tr><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>22,50 €</td></tr><tr><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>7,50 €</td></tr><tr><td>1</td><td>0</td><td>23</td><td>0</td><td>0</td><td>0</td><td>35,08 €</td></tr><tr><td>1</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>6,58 €</td></tr><tr><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>16,50 €</td></tr></tbody></table>",
+            "grounding": [
+                {
+                    "page": 2,
+                    "box": {
+                        "l": 0.47337689995765686,
+                        "t": 0.20053088665008545,
+                        "r": 0.9479809999465942,
+                        "b": 0.4430925250053406
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "table",
+            "chunk_id": "623775b3-d647-43b3-a26f-87e0e21ba46c"
+        },
+        {
+            "text": "<table>\n  <tr>\n    <th colspan=\"6\">Price for each Query in Euro:</th>\n  </tr>\n  <tr>\n    <td>0,58</td>\n    <td>0,70</td>\n    <td>1,50</td>\n    <td>0,50</td>\n    <td>0,80</td>\n    <td>1,80</td>\n  </tr>\n</table>",
+            "grounding": [
+                {
+                    "page": 2,
+                    "box": {
+                        "l": 0.4739108681678772,
+                        "t": 0.46745172142982483,
+                        "r": 0.8101814389228821,
+                        "b": 0.4982266128063202
+                    },
+                    "image_path": null
+                }
+            ],
+            "chunk_type": "table",
+            "chunk_id": "5e709504-445b-4a28-a0e9-0ff856c2352b"
+        }
+    ],
+    "extraction": {
+        "bill_to_name": "Musterkunde AG\nMr. John Doe",
+        "bill_to_address": "Musterstr. 23\n12345 Musterstadt",
+        "invoice_number": "123100401",
+        "customer_number": "12345",
+        "invoice_date": "2024-03-01",
+        "invoice_period_start": "2024-02-01",
+        "invoice_period_end": "2024-02-29",
+        "gross_amount": 453.53,
+        "net_amount": 381.12,
+        "vat_amount": 72.41,
+        "iban": "DE29123456789012345678",
+        "bic": "GENODE51MIC",
+        "company_issuing_invoice": "CPB SOFTWARE (GERMANY) GMBH"
+    },
+    "extraction_metadata": {},
+    "start_page_idx": 0,
+    "end_page_idx": 2,
+    "doc_type": "pdf",
+    "result_path": null,
+    "errors": [],
+    "extraction_error": null
+}

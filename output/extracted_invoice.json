@@ -1,0 +1,15 @@
+{
+    "bill_to_name": "Musterkunde AG\nMr. John Doe",
+    "bill_to_address": "Musterstr. 23\n12345 Musterstadt",
+    "invoice_number": "123100401",
+    "customer_number": "12345",
+    "invoice_date": "2024-03-01",
+    "invoice_period_start": "2024-02-01",
+    "invoice_period_end": "2024-02-29",
+    "gross_amount": 453.53,
+    "net_amount": 381.12,
+    "vat_amount": 72.41,
+    "iban": "DE29123456789012345678",
+    "bic": "GENODE51MIC",
+    "company_issuing_invoice": "CPB SOFTWARE (GERMANY) GMBH"
+}
